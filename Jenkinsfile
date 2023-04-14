@@ -4,6 +4,6 @@ env.component="payment"
 env.app_lang = "python"
 //env.notify_group = "group1@xyz.com"
 
-//ci()
+ci()
 
-ci_scripted()
+//ci_scripted()
